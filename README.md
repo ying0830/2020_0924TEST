@@ -19,7 +19,7 @@
 
 [NKUST](https://www.nkust.edu.tw/)
 
-![NKUST](NKUST.png "NKUST")
+![NKUST](NKUST.png "NKUST2")
 
 <https://www.nkust.edu.tw/>
 
